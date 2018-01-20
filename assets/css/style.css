@@ -9,8 +9,6 @@ body {
 /* general */
 
 .container {
-  width: 100%;
-  max-width: 960px;
   margin: 0 auto;
   clear: both;
 }
@@ -106,8 +104,6 @@ footer {
 
 .sidebar {
   float: right;
-  width: 100%;
-  max-width: 270px;
   padding: 30px;
   margin-bottom: 20px;
   background: #fff;
@@ -141,8 +137,6 @@ h3,
 
 .main-section {
   float: left;
-  width: 100%;
-  max-width: 650px;
   padding: 30px;
   margin: 0 0 40px;
   background: #fff;
@@ -154,7 +148,6 @@ h3,
 .work {
   position: relative;
   float: left;
-  width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
 }
@@ -164,7 +157,6 @@ h3,
 }
 
 .work img {
-  width: 100%;
   border: 0 none;
   opacity: 0.8;
 }
@@ -172,7 +164,6 @@ h3,
 .work h3 {
   position: absolute;
   bottom: 20px;
-  width: 100%;
   padding: 15px;
   margin-bottom: 0;
   font-weight: 300;
@@ -185,7 +176,6 @@ h3,
 
 .auth-image {
   float: left;
-  width: 200px;
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
